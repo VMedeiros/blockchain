@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-## Passo a Passo Completo (Iniciante)
+## Passo a Passo Completo
 
 ### 1. Preparação e Verificação de Ambiente
 
