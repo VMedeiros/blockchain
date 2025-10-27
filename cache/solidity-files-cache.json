@@ -1,12 +1,12 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\dev\\blockchain\\contracts\\interfaces\\IMintableERC20.sol": {
-      "lastModificationDate": 1761251510281,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\contracts\\interfaces\\IMintableERC20.sol": {
+      "lastModificationDate": 1761255799882,
       "contentHash": "509e6a8b4cb6674b33efc85d1b7e3d32",
       "sourceName": "contracts/interfaces/IMintableERC20.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -39,12 +39,12 @@
         "IMintableERC20"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\IERC20.sol": {
-      "lastModificationDate": 1761251877536,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\IERC20.sol": {
+      "lastModificationDate": 1761595437599,
       "contentHash": "9261adf6457863de3e9892f51317ec89",
       "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -75,12 +75,12 @@
         "IERC20"
       ]
     },
-    "C:\\dev\\blockchain\\contracts\\reward\\RewardDistributor.sol": {
-      "lastModificationDate": 1761252886968,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\contracts\\reward\\RewardDistributor.sol": {
+      "lastModificationDate": 1761255799884,
       "contentHash": "6e6b948a3a89bb417296b635586d0bc2",
       "sourceName": "contracts/reward/RewardDistributor.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -116,12 +116,12 @@
         "RewardDistributor"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\access\\AccessControl.sol": {
-      "lastModificationDate": 1761251869339,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\access\\AccessControl.sol": {
+      "lastModificationDate": 1761595437238,
       "contentHash": "d0e2c05f09a3aea7cd299bbd4a435ee2",
       "sourceName": "@openzeppelin/contracts/access/AccessControl.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -156,12 +156,12 @@
         "AccessControl"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\structs\\EnumerableSet.sol": {
-      "lastModificationDate": 1761251872939,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\structs\\EnumerableSet.sol": {
+      "lastModificationDate": 1761595437385,
       "contentHash": "8fb55f589dba17bf8fd749c7549ce5cc",
       "sourceName": "@openzeppelin/contracts/utils/structs/EnumerableSet.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -195,12 +195,12 @@
         "EnumerableSet"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\Context.sol": {
-      "lastModificationDate": 1761251870932,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\Context.sol": {
+      "lastModificationDate": 1761595437304,
       "contentHash": "67bfbc07588eb8683b3fd8f6f909563e",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -231,12 +231,12 @@
         "Context"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\ERC165.sol": {
-      "lastModificationDate": 1761251874600,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\ERC165.sol": {
+      "lastModificationDate": 1761595437418,
       "contentHash": "0906d06dca25210d4696dcef6dad2909",
       "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -269,12 +269,12 @@
         "ERC165"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\access\\IAccessControl.sol": {
-      "lastModificationDate": 1761251876741,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\access\\IAccessControl.sol": {
+      "lastModificationDate": 1761595437551,
       "contentHash": "def1e8f7b6cac577cf2600655bf3bdf8",
       "sourceName": "@openzeppelin/contracts/access/IAccessControl.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -305,12 +305,12 @@
         "IAccessControl"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\IERC165.sol": {
-      "lastModificationDate": 1761251877344,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\IERC165.sol": {
+      "lastModificationDate": 1761595437589,
       "contentHash": "7074c93b1ea0a122063f26ddd1db1032",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -341,12 +341,12 @@
         "IERC165"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\Arrays.sol": {
-      "lastModificationDate": 1761251869990,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\Arrays.sol": {
+      "lastModificationDate": 1761595437262,
       "contentHash": "e19f50397668e814730982e8f2aa6e56",
       "sourceName": "@openzeppelin/contracts/utils/Arrays.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -382,12 +382,12 @@
         "Arrays"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\math\\Math.sol": {
-      "lastModificationDate": 1761251878683,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\math\\Math.sol": {
+      "lastModificationDate": 1761595437655,
       "contentHash": "5ec781e33d3a9ac91ffdc83d94420412",
       "sourceName": "@openzeppelin/contracts/utils/math/Math.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -421,12 +421,12 @@
         "Math"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\SlotDerivation.sol": {
-      "lastModificationDate": 1761251879797,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\SlotDerivation.sol": {
+      "lastModificationDate": 1761595437727,
       "contentHash": "43950136ee6a1761d2cbed39d16bb1e0",
       "sourceName": "@openzeppelin/contracts/utils/SlotDerivation.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -457,48 +457,12 @@
         "SlotDerivation"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\StorageSlot.sol": {
-      "lastModificationDate": 1761251879839,
-      "contentHash": "e656d64c4ce918f3d13030b91c935134",
-      "sourceName": "@openzeppelin/contracts/utils/StorageSlot.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "StorageSlot"
-      ]
-    },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\Comparators.sol": {
-      "lastModificationDate": 1761251870897,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\Comparators.sol": {
+      "lastModificationDate": 1761595437301,
       "contentHash": "0e57405a6f979853cbfeb0df3546c3a3",
       "sourceName": "@openzeppelin/contracts/utils/Comparators.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -529,12 +493,48 @@
         "Comparators"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\Panic.sol": {
-      "lastModificationDate": 1761251879332,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\StorageSlot.sol": {
+      "lastModificationDate": 1761595437729,
+      "contentHash": "e656d64c4ce918f3d13030b91c935134",
+      "sourceName": "@openzeppelin/contracts/utils/StorageSlot.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "StorageSlot"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\Panic.sol": {
+      "lastModificationDate": 1761595437684,
       "contentHash": "2133dc13536b4a6a98131e431fac59e1",
       "sourceName": "@openzeppelin/contracts/utils/Panic.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -565,12 +565,12 @@
         "Panic"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\math\\SafeCast.sol": {
-      "lastModificationDate": 1761251879584,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\math\\SafeCast.sol": {
+      "lastModificationDate": 1761595437701,
       "contentHash": "2adca1150f58fc6f3d1f0a0f22ee7cca",
       "sourceName": "@openzeppelin/contracts/utils/math/SafeCast.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -601,12 +601,12 @@
         "SafeCast"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\IERC20Metadata.sol": {
-      "lastModificationDate": 1761251877586,
-      "contentHash": "513778b30d2750f5d2b9b19bbcf748a5",
-      "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\Strings.sol": {
+      "lastModificationDate": 1761595437731,
+      "contentHash": "d8f70caf0e0c77dc908176ed44812fb7",
+      "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -630,21 +630,255 @@
         }
       },
       "imports": [
-        "../IERC20.sol"
+        "./math/Math.sol",
+        "./math/SafeCast.sol",
+        "./math/SignedMath.sol"
       ],
       "versionPragmas": [
-        ">=0.6.2"
+        "^0.8.20"
       ],
       "artifacts": [
-        "IERC20Metadata"
+        "Strings"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\ERC20.sol": {
-      "lastModificationDate": 1761251874986,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\math\\SignedMath.sol": {
+      "lastModificationDate": 1761595437710,
+      "contentHash": "ae3528afb8bdb0a7dcfba5b115ee8074",
+      "sourceName": "@openzeppelin/contracts/utils/math/SignedMath.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./SafeCast.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "SignedMath"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\cryptography\\MessageHashUtils.sol": {
+      "lastModificationDate": 1761595437663,
+      "contentHash": "260f3968eefa3bbd30520cff5384cd93",
+      "sourceName": "@openzeppelin/contracts/utils/cryptography/MessageHashUtils.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../Strings.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "MessageHashUtils"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\cryptography\\EIP712.sol": {
+      "lastModificationDate": 1761595437373,
+      "contentHash": "d67dfba302ed2489324d7584625c3bde",
+      "sourceName": "@openzeppelin/contracts/utils/cryptography/EIP712.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./MessageHashUtils.sol",
+        "../ShortStrings.sol",
+        "../../interfaces/IERC5267.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "EIP712"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\ShortStrings.sol": {
+      "lastModificationDate": 1761595437707,
+      "contentHash": "c1be9487e5a64acf23b5d8028482e748",
+      "sourceName": "@openzeppelin/contracts/utils/ShortStrings.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./StorageSlot.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ShortStrings"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\interfaces\\IERC5267.sol": {
+      "lastModificationDate": 1761595437620,
+      "contentHash": "6e00d2fe4bc0d5f1add753824498bb35",
+      "sourceName": "@openzeppelin/contracts/interfaces/IERC5267.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.16"
+      ],
+      "artifacts": [
+        "IERC5267"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\ERC20Permit.sol": {
+      "lastModificationDate": 1761595437446,
+      "contentHash": "2343c0c3b51267f4f2639ec3f99cd63e",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./IERC20Permit.sol",
+        "../ERC20.sol",
+        "../../../utils/cryptography/ECDSA.sol",
+        "../../../utils/cryptography/EIP712.sol",
+        "../../../utils/Nonces.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ERC20Permit"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\ERC20.sol": {
+      "lastModificationDate": 1761595437429,
       "contentHash": "59dfce11284f2636db261df9b6a18f81",
       "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -680,12 +914,120 @@
         "ERC20"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\interfaces\\draft-IERC6093.sol": {
-      "lastModificationDate": 1761251872340,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\Nonces.sol": {
+      "lastModificationDate": 1761595437670,
+      "contentHash": "c32d108058718efb9061b88e83a83f79",
+      "sourceName": "@openzeppelin/contracts/utils/Nonces.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "Nonces"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\cryptography\\ECDSA.sol": {
+      "lastModificationDate": 1761595437371,
+      "contentHash": "81de029d56aa803972be03c5d277cb6c",
+      "sourceName": "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ECDSA"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\IERC20Permit.sol": {
+      "lastModificationDate": 1761595437605,
+      "contentHash": "b01905745d47df90c7bd5dd70d498cb7",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Permit.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.16"
+      ],
+      "artifacts": [
+        "IERC20Permit"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\interfaces\\draft-IERC6093.sol": {
+      "lastModificationDate": 1761595437356,
       "contentHash": "5041977bbe908de2e6ed0270447f79ad",
       "sourceName": "@openzeppelin/contracts/interfaces/draft-IERC6093.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -718,12 +1060,12 @@
         "IERC721Errors"
       ]
     },
-    "C:\\dev\\blockchain\\contracts\\token\\TokenB.sol": {
-      "lastModificationDate": 1761252886937,
-      "contentHash": "c55215541db6b4964bf136960d6fbdc7",
-      "sourceName": "contracts/token/TokenB.sol",
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\IERC20Metadata.sol": {
+      "lastModificationDate": 1761595437602,
+      "contentHash": "513778b30d2750f5d2b9b19bbcf748a5",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -747,97 +1089,21 @@
         }
       },
       "imports": [
-        "@openzeppelin/contracts/token/ERC20/extensions/ERC20Pausable.sol",
-        "@openzeppelin/contracts/access/Ownable.sol"
+        "../IERC20.sol"
       ],
       "versionPragmas": [
-        "^0.8.24"
+        ">=0.6.2"
       ],
       "artifacts": [
-        "TokenB"
+        "IERC20Metadata"
       ]
     },
-    "C:\\dev\\blockchain\\contracts\\token\\TokenA.sol": {
-      "lastModificationDate": 1761252604945,
-      "contentHash": "2f24eb505d6716ceb5367ff9d5d4864b",
-      "sourceName": "contracts/token/TokenA.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "@openzeppelin/contracts/token/ERC20/ERC20.sol",
-        "@openzeppelin/contracts/access/Ownable.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.24"
-      ],
-      "artifacts": [
-        "TokenA"
-      ]
-    },
-    "C:\\dev\\blockchain\\contracts\\interfaces\\ITokenASnapshot.sol": {
-      "lastModificationDate": 1761251510281,
-      "contentHash": "21d244cae0341437b7e06bf82488cd64",
-      "sourceName": "contracts/interfaces/ITokenASnapshot.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.24"
-      ],
-      "artifacts": [
-        "ITokenASnapshot"
-      ]
-    },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\ERC20Pausable.sol": {
-      "lastModificationDate": 1761251875084,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\ERC20Pausable.sol": {
+      "lastModificationDate": 1761595437443,
       "contentHash": "a3ce035689a60e32921347c16a3fb786",
       "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/ERC20Pausable.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -871,12 +1137,12 @@
         "ERC20Pausable"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\Pausable.sol": {
-      "lastModificationDate": 1761251879337,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\utils\\Pausable.sol": {
+      "lastModificationDate": 1761595437686,
       "contentHash": "0d47b53e10b1985efbb396f937626279",
       "sourceName": "@openzeppelin/contracts/utils/Pausable.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -909,12 +1175,249 @@
         "Pausable"
       ]
     },
-    "C:\\dev\\blockchain\\node_modules\\@openzeppelin\\contracts\\access\\Ownable.sol": {
-      "lastModificationDate": 1761251879193,
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\ERC20Burnable.sol": {
+      "lastModificationDate": 1761595437432,
+      "contentHash": "273d8d24b06f67207dd5f35c3a0c1086",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../ERC20.sol",
+        "../../../utils/Context.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ERC20Burnable"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\contracts\\src\\BBRLPlus.sol": {
+      "lastModificationDate": 1761595494326,
+      "contentHash": "610ea48b5a5c2c6f5df5b9ce7dd9475f",
+      "sourceName": "contracts/src/BBRLPlus.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/access/AccessControl.sol",
+        "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+        "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
+        "@openzeppelin/contracts/token/ERC20/extensions/ERC20Pausable.sol",
+        "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol",
+        "@openzeppelin/contracts/utils/structs/EnumerableSet.sol",
+        "./Utils/Errors.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.27"
+      ],
+      "artifacts": [
+        "DEMOBR"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\contracts\\src\\Utils\\Errors.sol": {
+      "lastModificationDate": 1761595494340,
+      "contentHash": "c9f6203a622e39c8e893aa22c8677fb4",
+      "sourceName": "contracts/src/Utils/Errors.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "LibErrors"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\contracts\\src\\PaymentGroup.sol": {
+      "lastModificationDate": 1761595494331,
+      "contentHash": "547e4560fe8468317abe41bad57f0a09",
+      "sourceName": "contracts/src/PaymentGroup.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/access/AccessControl.sol",
+        "@openzeppelin/contracts/utils/structs/EnumerableSet.sol",
+        "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+        "./interfaces/IMintableERC20.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "PaymentGroup"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\contracts\\src\\interfaces\\IMintableERC20.sol": {
+      "lastModificationDate": 1761595494335,
+      "contentHash": "693dcab803fee7cdb1a60249a0ae699e",
+      "sourceName": "contracts/src/interfaces/IMintableERC20.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "IMintableERC20"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\contracts\\src\\NewGroup.sol": {
+      "lastModificationDate": 1761595494329,
+      "contentHash": "8c53e6a7ec5dd1c4d231490de2b24abb",
+      "sourceName": "contracts/src/NewGroup.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/access/AccessControl.sol",
+        "./PaymentGroup.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "PaymentGroupFactory"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\node_modules\\@openzeppelin\\contracts\\access\\Ownable.sol": {
+      "lastModificationDate": 1761595437674,
       "contentHash": "d3c790edc9ccf808a17c5a6cd13614fd",
       "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.27",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -945,6 +1448,120 @@
       ],
       "artifacts": [
         "Ownable"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\contracts\\token\\TokenB.sol": {
+      "lastModificationDate": 1761255799885,
+      "contentHash": "c55215541db6b4964bf136960d6fbdc7",
+      "sourceName": "contracts/token/TokenB.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/token/ERC20/extensions/ERC20Pausable.sol",
+        "@openzeppelin/contracts/access/Ownable.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "TokenB"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\contracts\\token\\TokenA.sol": {
+      "lastModificationDate": 1761255799884,
+      "contentHash": "2f24eb505d6716ceb5367ff9d5d4864b",
+      "sourceName": "contracts/token/TokenA.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+        "@openzeppelin/contracts/access/Ownable.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "TokenA"
+      ]
+    },
+    "C:\\dev\\Nova pasta\\Nova pasta\\blockchain\\contracts\\interfaces\\ITokenASnapshot.sol": {
+      "lastModificationDate": 1761255799882,
+      "contentHash": "21d244cae0341437b7e06bf82488cd64",
+      "sourceName": "contracts/interfaces/ITokenASnapshot.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "ITokenASnapshot"
       ]
     }
   }

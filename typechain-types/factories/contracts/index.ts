@@ -3,4 +3,5 @@
 /* eslint-disable */
 export * as interfaces from "./interfaces";
 export * as reward from "./reward";
+export * as src from "./src";
 export * as token from "./token";

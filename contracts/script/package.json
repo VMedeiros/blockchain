@@ -1,0 +1,38 @@
+{
+  "name": "authbank-scripts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Scripts utilitários para geração e gerenciamento seguro de carteiras Ethereum.",
+  "scripts": {
+    "generate:wallet": "node scripts/generateWallet.js",
+    "decrypt:wallet": "node scripts/decryptWallet.js",
+    "gas:limit": "node scripts/gasLimitCalculator.js",
+    "gas:mint": "node -e \"import('./scripts/gasLimitCalculator.js').then(m => m.estimateGasForMintRef())\"",
+    "gas:transfer": "node test-transfer-gas.js",
+    "role:check": "node scripts/roleChecker.js",
+    "mint:tokens": "node scripts/mintTokens.js",
+    "add:participant": "node scripts/PaymentGroup/addParticipant.js",
+    "remove:participant": "node scripts/PaymentGroup/removeParticipant.js",
+    "trigger:payment": "node scripts/PaymentGroup/triggerPayment.js",
+    "create:group": "node scripts/PaymentGroupFactory/createPaymentGroup.js",
+    "list:groups": "node scripts/PaymentGroupFactory/listGroups.js",
+    "lint": "echo 'Add a linter (eslint) futuramente'"
+  },
+  "keywords": [
+    "ethers",
+    "wallet",
+    "security",
+    "encryption"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "ethers": "^6.15.0",
+    "yargs": "^17.7.2"
+  }
+}

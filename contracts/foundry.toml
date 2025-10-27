@@ -1,0 +1,13 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+[dependencies] # <= Dependencies will be added under this config
+"@openzeppelin-contracts" = { version = "5.4.0" }
+forge-std = { version = "1.10.0" }
+
+[bnbtestnet] # <= Custom network configuration
+rpc_url = "${BNBTESTNET_RPC_URL}"
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options

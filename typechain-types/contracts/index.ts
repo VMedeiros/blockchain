@@ -5,5 +5,7 @@ import type * as interfaces from "./interfaces";
 export type { interfaces };
 import type * as reward from "./reward";
 export type { reward };
+import type * as src from "./src";
+export type { src };
 import type * as token from "./token";
 export type { token };
